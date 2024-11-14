@@ -1,4 +1,5 @@
 Climate Change Impact on Agriculture Dashboard
+
 Description
 This Tableau dashboard provides an interactive and data-driven exploration of how climate change impacts agriculture worldwide. The visualizations highlight key metrics such as average temperature, total precipitation, CO2 emissions, crop yield, extreme weather events, and economic impact. The dashboard is designed to help policymakers, researchers, and stakeholders understand regional disparities and make informed decisions to mitigate the negative effects of climate change on agriculture.
 
